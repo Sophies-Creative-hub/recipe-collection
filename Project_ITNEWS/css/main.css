@@ -1,0 +1,243 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 14px;
+}
+.topnews {
+  width: 184px;
+  height: 41px;
+  left: 55px;
+  top: 260px;
+  position: absolute;
+  color: black;
+  font-size: 32px;  
+  font-family: Inter;
+  font-weight: 400;  
+  word-wrap: break-word;
+}
+.topnews1 {
+    width: 294px;
+    height: 60px;
+    left: 4px;
+    top: 330px;
+    position: absolute;
+    color: black;
+    font-size: 20px;  
+    font-family: Inter;
+    font-weight: 400;  
+    word-wrap: break-word;
+}
+.topnews2 {
+    width: 294px;
+    height: 60px;
+    left: 4px;
+    top: 430px;
+    position: absolute;
+    color: black;
+    font-size: 20px;  
+    font-family: Inter;
+    font-weight: 400;  
+    word-wrap: break-word;
+}
+.topnews3 {
+    width: 294px;
+    height: 60px;
+    left: 4px;
+    top: 530px;
+    position: absolute;
+    color: black;
+    font-size: 20px;  
+    font-family: Inter;
+    font-weight: 400;  
+    word-wrap: break-word;
+}
+.kvadratTOPnews {
+    width: 300px;
+    height: 350px;
+    left: 0;
+    top: 302px;
+    position: absolute;
+    border: 1.2px black solid;
+}  
+.liniaTOPvert {
+    width: 778px;
+    height: 0px;
+    left: 300px;
+    top: 1032px;
+    position: absolute;
+    transform: rotate(-90deg);
+    border: 1px black solid;
+    transform-origin: 0 0;
+}
+.liniatopnews1 {
+    width: 300px;
+    height: 0px;
+    left: 0px;
+    top: 400px;
+    position: absolute;
+    border: 1px rgba(0, 0, 0, 0.300) solid;
+}
+.liniatopnews2 {
+    width: 300px;
+    height: 0px;
+    left: 0px;
+    top: 500px;
+    position: absolute;
+    border: 1px rgba(0, 0, 0, 0.300) solid;
+}
+.crypto-section {
+    width: 230px;
+    height: 41px;
+    left: 45px;
+    top: 670px;
+    position: absolute;
+    color: black;
+    font-size: 22px;  
+    font-family: Inter;
+    font-weight: 400;  
+    word-wrap: break-word;
+  }
+.search-section{
+    position: relative;
+    top: 0px;
+    left: 700px;
+}
+.logo{
+    width: 750px;
+    height: 200px;
+    left: 450px;
+    top: 0px;
+    position: relative;
+}
+.kvadratcrypto {
+        width: 300px;
+        height: 380px;
+        left: -45px;
+        top: -20px;
+        position: absolute;
+        border: 1.2px black solid;
+    }  
+.liniacrypto {
+        width: 300px;
+        height: 0px;
+        left: -45px;
+        top: 90px;
+        position: absolute;
+        border: 2px rgba(0, 0, 0, 0.300) solid;
+    }
+.bitcoin {
+    width: 304px;
+    left: -50px;
+    position: absolute;
+    top: 90px;
+    border: 2px black solid;
+}
+.pic_1_1 {
+    left: 320px;
+    top: 250px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+.pic_1_2 {
+    left: 420px;
+    top: 0px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+.pic_1_3 {
+    left: 420px;
+    top: 0px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+.pic_2_1 {
+    left: 320px;
+    top: 500px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+.pic_2_2 {
+    left: 420px;
+    top: 0px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+.pic_2_3 {
+    left: 420px;
+    top: 0px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+.pic_3_1 {
+    left: 320px;
+    top: 750px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+.pic_3_2 {
+    left: 420px;
+    top: 0px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+.pic_3_3 {
+    left: 420px;
+    top: 0px;
+    position: absolute;
+    font-style: italic;
+    font-size: large;
+    float: right;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.site-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* vh - viewport height */
+}
+.content {
+    flex: 1;
+}
+.footer {
+    background-color: #f3f3f3; /* Пример цвета фона */
+    text-align: center;
+    top: 1000px;
+    position: absolute;
+    width: 1500px;
+    }
+.pic_2_3_index2 {
+    position: absolute;
+    left: 500px;
+    text-align: center;
+    
+}
+.text_pic_2_3_index2 {
+    left: 420px;
+    top: 750px;
+    position: absolute
+    
+}
+.Impressum {
+    left: 220px;
+    top: 150px;
+    position: absolute
+}
