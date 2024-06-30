@@ -1,0 +1,13 @@
+Zutaten:
+- 500 g Kartoffeln
+- 300 g Karotten
+- 200 g Zucchini
+- 200 g Aubergine
+- 1 rote Paprika
+- 1 gelbe Paprika
+- 1 Zwiebel
+- 2 Knoblauchzehen
+- 400 ml Kokosmilch
+- 2 EL Olivenöl
+- Salz und Pfeffer nach Geschmack
+- Frische Kräuter (z. B. Petersilie oder Koriander) zum Garnieren
