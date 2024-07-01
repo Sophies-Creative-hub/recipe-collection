@@ -1,0 +1,6 @@
+- 250 g Rinderhackfleisch
+- 250 g Schweinehackfleisch
+- 1 Zwiebel (fein gehackt)
+- 2 Knoblauchzehen (fein gehackt)
+- Salz und Pfeffer nach Geschmack
+- 2-3 Esslöffel Wasser (optional, um die Füllung saftiger zu machen)
